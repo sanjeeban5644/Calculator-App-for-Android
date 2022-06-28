@@ -7,4 +7,4 @@ This is a Simple Calculator App for Android. It can perform simple calculations.
 ---
 ## Contributing Guidelines : 
 
-If you find any Issue with the app, feel free to open a related Issue. Valid Issues with corresponding PR's will be merged. :smile:
+If you find any Issue with the Application, feel free to open a related Issue. Valid Issues with corresponding Pull Requests will be surely merged. :smile:
